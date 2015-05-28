@@ -1,6 +1,10 @@
 <resources>
-    <string name="app_name">Lsensores</string>
+    <string name="app_name">ER - Sensores</string>
 
-    <string name="hello_world"></string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world">Salida</string>
+
+    <string name="iniciar">Iniciar</string>
+    <string name="detener">Detener</string>
+    <string name="limpiar">Limpiar</string>
+
 </resources>
